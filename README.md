@@ -12,4 +12,5 @@ The other files
 * ```R-pkg_building_metadata.pptx```
 * ```R-pkg_building_testing.pptx```
 * ```R-pkg_building_vignettes.pptx```
+
 give additional information that might be of some help to some people.
